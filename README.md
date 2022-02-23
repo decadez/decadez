@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @decadez
-- 👀 I’m interested in JS & JAVA
-- 🌱 I’m currently learning Python
-- 📫 How to reach me ?   email --> decadez@yeah.net
+- 👀 I’m interested in javascript
+- 📫 email 👉 decadez@yeah.net or 
+- 💬 wechat 👉 deep_in_sight
+- 🌍 My site 👉 decadez.icu
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=decadez&count_private=true&show_icons=true&theme=gruvbox_light)](https://github.com/decadez/github-readme-stats)
 
