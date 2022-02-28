@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @decadez
-- 👀 I’m interested in javascript
-- 📫 email 👉 decadez@yeah.net or 
-- 💬 wechat 👉 deep_in_sight
-- 🌍 My site 👉 decadez.icu
+```
+    .___                        .___             
+  __| _/____   ____ _____     __| _/____ ________
+ / __ |/ __ \_/ ___\\__  \   / __ |/ __ \\___   /
+/ /_/ \  ___/\  \___ / __ \_/ /_/ \  ___/ /    / 
+\____ |\___  >\___  >____  /\____ |\___  >_____ \
+     \/    \/     \/     \/      \/    \/      \/
+```
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=decadez&count_private=true&show_icons=true&theme=gruvbox_light)](https://github.com/decadez/github-readme-stats)
 
